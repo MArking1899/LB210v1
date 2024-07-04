@@ -11,4 +11,3 @@ Die restlichen Dateien sollten nicht geändert werden.
 
 Sie können sich somit ganz auf die CI/CD Pipeline konzentrieren.
 
-Viel Erfolg!
